@@ -6,7 +6,7 @@ Atividade N2 de Ciência de Dados: aplicação de análise de dados e aprendizad
 
 **Instituição:** Católica de Santa Catarina
 
-**Disciplina:** Inteligência Artificial / Ciência de Dados
+**Disciplina:** Ciência de Dados
 
 **Professor:** Claudinei Dias (Ney)
 
