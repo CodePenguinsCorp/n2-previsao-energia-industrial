@@ -1,0 +1,47 @@
+{
+  "fonte": "https://archive.ics.uci.edu/static/public/851/steel%2Bindustry%2Benergy%2Bconsumption.zip",
+  "doi": "10.24432/C52G8C",
+  "licenca_dados": "CC BY 4.0",
+  "auditoria": {
+    "linhas": 35040,
+    "colunas": 11,
+    "valores_ausentes": 0,
+    "linhas_duplicadas": 0,
+    "inicio": "2018-01-01 00:15:00",
+    "fim": "2019-01-01 00:00:00",
+    "meias_noites_normalizadas": 365,
+    "convencao_temporal": "fim_intervalo_meia_noite_mais_um_dia",
+    "frequencia_minutos": 15,
+    "sha256": "9b1cee6f9cb9cd9df2b95814ca90a9a2ff15b7f5f1fba0fae3c643e82072eacc"
+  },
+  "versoes": {
+    "numpy": "2.5.4",
+    "pandas": "3.1.0",
+    "matplotlib": "3.11.2",
+    "scikit-learn": "1.9.1",
+    "joblib": "1.6.0",
+    "python": "3.13.5"
+  },
+  "semente": 42,
+  "horizonte_minutos": 15,
+  "modo": "sequencial_um_passo",
+  "vencedor_validacao": "HistGradientBoosting",
+  "atributos": [
+    "lag_1",
+    "lag_4",
+    "lag_96",
+    "lag_672",
+    "media_1h",
+    "media_24h",
+    "hora_sen",
+    "hora_cos",
+    "semana_sen",
+    "semana_cos",
+    "fim_semana"
+  ],
+  "limiar_consumo_elevado_kwh": 82.48,
+  "MAE_teste_kwh": 3.8957330371056704,
+  "variacao_MAE_vs_persistencia_pct": 22.013039476796433,
+  "linhas_modelagem": 34368,
+  "linhas_teste": 5156
+}
