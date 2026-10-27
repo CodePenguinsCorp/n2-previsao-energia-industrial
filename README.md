@@ -10,7 +10,7 @@ Atividade N2 de Ciência de Dados: aplicação de análise de dados e aprendizad
 
 **Professor:** Claudinei Dias (Ney)
 
-**Integrantes:** preencher no início do notebook, até seis pessoas.
+**Integrantes:** Lucas Monich Nunes; José Henrique Brühmüller; André Schultz; Matheus Büsemayer.
 
 ## Trabalho principal
 
@@ -52,7 +52,7 @@ Nos 302 intervalos com consumo igual ou superior ao percentil 90 do treino (82,4
 2. Abra a opção para enviar um notebook e selecione `N2_Previsao_Energia_Industrial.ipynb`.
 3. Execute todas as células em ordem. O notebook baixa o CSV da UCI automaticamente se necessário.
 4. Confira as saídas e baixe a pasta `resultados/` para guardar as exportações da sessão.
-5. Substitua os nomes dos integrantes e revise o texto antes da entrega.
+5. Confira a identificação dos integrantes e revise o texto antes da entrega.
 
 As bibliotecas de análise utilizadas normalmente estão disponíveis no Colab. Caso haja uma dependência ausente, execute em uma célula separada:
 
@@ -98,7 +98,7 @@ O enunciado exige **link público de Colab ou GitHub**. Links do projeto:
 - **Notebook para entrega:** https://github.com/CodePenguinsCorp/n2-previsao-energia-industrial/blob/main/N2_Previsao_Energia_Industrial.ipynb
 - **Executar no Colab:** https://colab.research.google.com/github/CodePenguinsCorp/n2-previsao-energia-industrial/blob/main/N2_Previsao_Energia_Industrial.ipynb
 
-Preencha os integrantes antes da entrega. O arquivo publicado no GitHub mantém as saídas executadas, e o link do Colab abre uma cópia para execução.
+Confira a identificação dos integrantes antes da entrega. O arquivo publicado no GitHub mantém as saídas executadas, e o link do Colab abre uma cópia para execução.
 
 **Colab:** depois de enviar e revisar o notebook, use **Compartilhar**, habilite visualização para qualquer pessoa com o link e copie a URL. Teste o acesso em uma janela anônima antes de enviar ao professor.
 
