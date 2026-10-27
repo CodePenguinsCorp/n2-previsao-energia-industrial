@@ -2,7 +2,7 @@
 
 Atividade N2 de Ciência de Dados: aplicação de análise de dados e aprendizado de máquina à Indústria 4.0.
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JHBruhmuller/n2-previsao-energia-industrial/blob/main/N2_Previsao_Energia_Industrial.ipynb)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CodePenguinsCorp/n2-previsao-energia-industrial/blob/main/N2_Previsao_Energia_Industrial.ipynb)
 
 **Instituição:** Católica de Santa Catarina
 
@@ -94,9 +94,9 @@ As exportações são recriadas em cada execução. As medições são históric
 
 O enunciado exige **link público de Colab ou GitHub**. Links do projeto:
 
-- **Repositório:** https://github.com/JHBruhmuller/n2-previsao-energia-industrial
-- **Notebook para entrega:** https://github.com/JHBruhmuller/n2-previsao-energia-industrial/blob/main/N2_Previsao_Energia_Industrial.ipynb
-- **Executar no Colab:** https://colab.research.google.com/github/JHBruhmuller/n2-previsao-energia-industrial/blob/main/N2_Previsao_Energia_Industrial.ipynb
+- **Repositório:** https://github.com/CodePenguinsCorp/n2-previsao-energia-industrial
+- **Notebook para entrega:** https://github.com/CodePenguinsCorp/n2-previsao-energia-industrial/blob/main/N2_Previsao_Energia_Industrial.ipynb
+- **Executar no Colab:** https://colab.research.google.com/github/CodePenguinsCorp/n2-previsao-energia-industrial/blob/main/N2_Previsao_Energia_Industrial.ipynb
 
 Preencha os integrantes antes da entrega. O arquivo publicado no GitHub mantém as saídas executadas, e o link do Colab abre uma cópia para execução.
 
