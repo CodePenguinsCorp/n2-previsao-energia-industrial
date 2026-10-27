@@ -10,7 +10,7 @@ Atividade N2 de Ciência de Dados: aplicação de análise de dados e aprendizad
 
 **Professor:** Claudinei Dias (Ney)
 
-**Integrantes:** Lucas Monich Nunes; José Henrique Brühmüller; André Schultz; Matheus Büsemayer.
+**Integrantes:** André Schultz; José Henrique Brühmüller; Lucas Monich Nunes; Matheus Büsemayer.
 
 ## Trabalho principal
 

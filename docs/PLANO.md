@@ -27,4 +27,4 @@ Notebook em português, executado e compatível com Google Colab, com introduç�
 
 Verificação final: 27 células, das quais 12 executáveis, sem erros ou avisos nas saídas; cinco figuras; métricas recalculadas e modelo salvo conferidos. Pacote ZIP validado. A revisão independente identificou a ambiguidade das meias-noites, que foi normalizada e documentada antes da execução final.
 
-Publicação autorizada pelo usuário em 27/10/2026: https://github.com/CodePenguinsCorp/n2-previsao-energia-industrial. Integrantes identificados: Lucas Monich Nunes; José Henrique Brühmüller; André Schultz; Matheus Büsemayer.
+Publicação autorizada pelo usuário em 27/10/2026: https://github.com/CodePenguinsCorp/n2-previsao-energia-industrial. Integrantes identificados: André Schultz; José Henrique Brühmüller; Lucas Monich Nunes; Matheus Büsemayer.
