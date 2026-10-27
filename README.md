@@ -52,7 +52,6 @@ Nos 302 intervalos com consumo igual ou superior ao percentil 90 do treino (82,4
 2. Abra a opção para enviar um notebook e selecione `N2_Previsao_Energia_Industrial.ipynb`.
 3. Execute todas as células em ordem. O notebook baixa o CSV da UCI automaticamente se necessário.
 4. Confira as saídas e baixe a pasta `resultados/` para guardar as exportações da sessão.
-5. Confira a identificação dos integrantes e revise o texto antes da entrega.
 
 As bibliotecas de análise utilizadas normalmente estão disponíveis no Colab. Caso haja uma dependência ausente, execute em uma célula separada:
 
@@ -70,7 +69,7 @@ python -m venv .venv
 .\.venv\Scripts\python.exe -m ipykernel install --user --name energia-n2 --display-name "Energia N2"
 ```
 
-Abra o notebook no VS Code ou em outro editor com suporte a Jupyter e selecione o kernel **Energia N2**. Execute todas as células. O ambiente exato da execução entregue está registrado em `resultados/metadados.json`; o arquivo `requirements.txt` define faixas compatíveis, sem garantir resultados idênticos entre versões.
+Abra o notebook no VS Code ou em outro editor com suporte a Jupyter e selecione o kernel **Energia N2**. Execute todas as células. O ambiente exato da execução de referência está registrado em `resultados/metadados.json`; o arquivo `requirements.txt` define faixas compatíveis, sem garantir resultados idênticos entre versões.
 
 ## Arquivos
 
@@ -90,19 +89,13 @@ Abra o notebook no VS Code ou em outro editor com suporte a Jupyter e selecione 
 
 As exportações são recriadas em cada execução. As medições são históricas e os resultados não comprovam economia financeira ou desempenho em outra fábrica.
 
-## Entrega por link público
-
-O enunciado exige **link público de Colab ou GitHub**. Links do projeto:
+## Acesso ao projeto
 
 - **Repositório:** https://github.com/CodePenguinsCorp/n2-previsao-energia-industrial
-- **Notebook para entrega:** https://github.com/CodePenguinsCorp/n2-previsao-energia-industrial/blob/main/N2_Previsao_Energia_Industrial.ipynb
+- **Notebook:** https://github.com/CodePenguinsCorp/n2-previsao-energia-industrial/blob/main/N2_Previsao_Energia_Industrial.ipynb
 - **Executar no Colab:** https://colab.research.google.com/github/CodePenguinsCorp/n2-previsao-energia-industrial/blob/main/N2_Previsao_Energia_Industrial.ipynb
 
-Confira a identificação dos integrantes antes da entrega. O arquivo publicado no GitHub mantém as saídas executadas, e o link do Colab abre uma cópia para execução.
-
-**Colab:** depois de enviar e revisar o notebook, use **Compartilhar**, habilite visualização para qualquer pessoa com o link e copie a URL. Teste o acesso em uma janela anônima antes de enviar ao professor.
-
-**GitHub:** envie o conteúdo do projeto para um repositório público, preservando a atribuição dos dados. Não envie `.venv/` e `tmp/`. Entregue a URL do notebook ou do repositório e teste o acesso sem estar autenticado.
+O GitHub apresenta o notebook com as saídas salvas. O link do Colab permite abrir uma cópia para execução.
 
 ## Referências
 
